@@ -1,0 +1,36 @@
+
+
+body {
+margin:0 auto;
+padding:0;
+font-family:"Times New Roman",Serif;
+background:#ffffff;
+color:#000000;
+}
+	
+#pojemnik {
+margin:2%;
+width:auto;
+float:none 
+}
+
+#main {
+float:none 
+}
+
+#logo h1 {
+margin:0 0 10px 0;
+}
+
+#m-menu, #naglowek, #sidebar, .hide {
+display:none;
+}
+
+#content img {
+display:none;
+}
+
+a {
+text-decoration:underline;
+color:#0000FF;
+}
